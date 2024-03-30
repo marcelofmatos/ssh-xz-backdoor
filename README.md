@@ -27,7 +27,7 @@ https://www.openwall.com/lists/oss-security/2024/03/29/4
 
   
 
-Em resumo não há sistemas estáveis comprometidos. Os sistemas baseados em repositórios instáveis (de lançamento recente) ou de testes podem conter o backdoor. Na própria postagem o autor publicou um script para detectar se o sistema está comprometido. Se o script indicar "probably vulnerable" tente atualizar o SSH mais precisamente o pacote xz-utils na versão 5.6.
+Em resumo não há sistemas estáveis comprometidos. Os sistemas baseados em repositórios instáveis (de lançamento recente) ou de testes podem conter o backdoor. Na própria postagem o autor publicou [um script para detectar se o sistema está comprometido](detect.sh). Se o script indicar "probably vulnerable" tente atualizar o SSH mais precisamente o pacote xz-utils na versão 5.6.
 
 
 ## Mais sobre
